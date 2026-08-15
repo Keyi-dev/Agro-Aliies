@@ -5,3 +5,23 @@ This is currently an early-stage hackathon prototype under active
 development. The interface and core concept are being built, while features
 such as farmer listings, map interactions, escrow payments, and delivery
 logistics are still being developed.
+## Current project status
+
+This repository contains the current marketplace page for Agro Allies.
+
+The marketplace interface is the first part of a larger agricultural
+platform. Planned features include farmer listings, location-based map
+discovery, escrow-protected payments, and delivery logistics.
+
+The project is still under active development.
+## Current prototype
+
+The marketplace page currently demonstrates:
+
+- Agro Allies navigation
+- Marketplace layout
+- Farmer profile section
+- Nearby farmers
+- Product categories
+- Map interface concept
+- Marketplace visual design
