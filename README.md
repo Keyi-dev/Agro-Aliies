@@ -25,3 +25,7 @@ The marketplace page currently demonstrates:
 - Product categories
 - Map interface concept
 - Marketplace visual design
+
+The other pages are still under development with market place being the most recently almost complete part of the project. Other pages of the project include the map,
+dashboard, profile, orders, messages, and settings pages, and are still being
+developed.
